@@ -20,10 +20,10 @@ item {
 }
 
 .headimg {
-  margin-top: 105px;
-  background: url('http://www.hawaiisalsa101.com/wp-content/uploads/2015/06/image5.jpg') no-repeat center center;
+  margin-top: 75px;
+  background: url('http://www.hawaiisalsa101.com/wp-content/uploads/2015/06/image5.jpg') no-repeat center top;
   background-size: cover;
-  height: 550px;
+  height: 625px;
 }
 
 h1 {
